@@ -11,13 +11,13 @@ It reads a respiration rate input from a potentiometer and uses mode selection p
 # Device Images
 
 ## Front Panel
-![Front Panel](images/front_panel.jpg)
+![Front Panel](images/front_panel.png)
 
 ## Back Panel
-![Back Panel](images/back_panel.jpg)
+![Back Panel](images/back_panel.png)
 
 ## Assembled Emergency Ventilator
-![Assembled View](images/assembled.jpg)
+![Assembled View](images/assembled.png)
 
 ---
 
